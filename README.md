@@ -10,7 +10,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - What was your motivation?
     I want to make a career out of coding and this is the beginning of a long journey.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-    To show that I have the basic problem solving skills and knoledge to be successful in this bootcamp.
+    To show that I have the basic problem solving skills and knowledge to be successful in this bootcamp.
 - What problem does it solve?
     Has basic information on different aspects of fundamental coding languages.
 - What did you learn?
